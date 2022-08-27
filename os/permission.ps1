@@ -1,0 +1,1 @@
+Get-Acl -Path C:\
